@@ -3,6 +3,6 @@ for you to consider.
 
 # requiesments
 1. https://docs.streamlit.io/library/get-started/installation
-2. some ml packages
+2. Packages in requirements.txt
 
 
